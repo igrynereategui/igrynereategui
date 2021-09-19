@@ -2,7 +2,7 @@
 
 - 😄 Pronomes: ela/dela
 - 📫 Para entrar em contato comigo mande um e-mail para: igryne.reategui@gmail.com
-- ⚡ Fun fact: Na virada do ano de 2020/2021 decidi dar o meu melhor na contabilidade, eis que eu não sabia que em 2021 eu iria desistir de toda a carreira por me apaixonar pela área de tecnologia.
+
 
 <div>
   <a href="https://github.com/igrynereategui">
