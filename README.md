@@ -1,4 +1,4 @@
-### Olá, eu sou a Igryne Reategui 😜
+### Olá, eu sou a Igryne 😜
 
 - 😄 Pronomes: ela/dela
 - 📫 Para entrar em contato comigo mande um e-mail para: igryne.reategui@gmail.com
