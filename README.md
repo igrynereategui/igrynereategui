@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/igrynereategui">
-  <img height="180em" weight="180em" src="https://github-readme-stats.vercel.app/api?username=igrynereategui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igrynereategui&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" weight="150em" src="https://github-readme-stats.vercel.app/api?username=igrynereategui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" weight="150em src="https://github-readme-stats.vercel.app/api/top-langs/?username=igrynereategui&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
  <div style="display: inline_block"><br>
