@@ -1,7 +1,8 @@
-### Olá, eu sou a Igryne 😜
+### Olá, eu sou a Igryne, tudo bom? 😜
 
 - 😄 Pronomes: ela/dela
 - 📫 Para entrar em contato comigo mande um e-mail para: igryne.reategui@gmail.com
+
 
 
 <div>
