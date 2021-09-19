@@ -6,7 +6,6 @@
 - 📫 Para entrar em contato comigo mande um e-mail para: igryne.reategui@gmail.com
 
 
-
 <div>
   <a href="https://github.com/igrynereategui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igrynereategui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
