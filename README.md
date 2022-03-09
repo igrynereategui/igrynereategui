@@ -1,8 +1,8 @@
 ### Olá, eu sou a Igryne, tudo bom? 😜
 
 - 😄 Pronomes: ela/dela.
-- 🌟 Curiosidades sobre: Tenho 25 anos, moro em Fortaleza, atualmente estou em transição de carreira para a área de tecnologia. Tenho 2 cachorrinhas, amo MMORPG (só me falta tempo de jogar 😢), amo Harry Potter, gosto de animes e doramas, indie music, e séries/filmes de romance e suspense. Amo cuscuz e pudim ❤️
-- 🤓 Atualmente estou estudando Java e Golang
+- 🌟 Curiosidades sobre: 26 anos, viciada em café, amante de MMORPG animes e doramas.
+- 🤓 Atualmente estudando Java e Cloud.
 - 📫 Para entrar em contato comigo mande um e-mail para: igryne.reategui@gmail.com
 
 
