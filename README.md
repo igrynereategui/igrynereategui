@@ -1,4 +1,4 @@
-### Olá, eu sou a Igryne, tudo bom? 😜
+### Olá, eu sou a Igryne, tudo bom?
 
 - 😄 Pronomes: ela/dela.
 - 🌟 Curiosidades sobre: 26 anos, viciada em café, amante de MMORPG, animes e doramas.
