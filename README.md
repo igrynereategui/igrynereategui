@@ -1,7 +1,7 @@
 ### Olá, eu sou a Igryne, tudo bom?
 
 - 😄 Pronomes: ela/dela.
-- 🌟 Curiosidades: 27 anos, viciada em café, apaixonada por MMORPG, animes, e doguinhos <3
+- 🌟 Curiosidades: 29 anos, viciada em café, apaixonada por MMORPG, animes, e doguinhos <3
 - 🤓 Atualmente estudando AWS Cloud.
 - 📫 Para entrar em contato comigo mande um e-mail para: igryne.reategui@gmail.com
 
