@@ -1,7 +1,3 @@
-### Olá, eu sou a Igryne, tudo bom?
-
-- 📫 Para entrar em contato comigo mande um e-mail para: igryne.reategui@gmail.com
-
 
 <div>
   <a href="https://github.com/igrynereategui">
@@ -23,7 +19,5 @@
   <a href = "mailto:igryne.reategui@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igryne-reategui-b34021163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-     
-  ![Snake animation](https://github.com/igrynereategui/igrynereategui/blob/output/github-contribution-grid-snake.svg)
-    
+        
 </div>
